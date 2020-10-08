@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GITHUB_DMOS5</string>
+    <string name="item_repository_owner_picture">OWNER_PICTURE</string>
+    <string name="item_repository_title">Título</string>
+    <string name="item_repository_url">URL</string>
+    <string name="inform_user">Informe um usuário para efetuar a busca.</string>
+    <string name="hint_name_user">Nome do usuário.</string>
+    <string name="find_user">Buscar usuário</string>
+    <string name="error_retrieving_data_from_api">Erro ao tentar recuperar dados da API</string>
+    <string name="error_empty_user">Usuário em branco</string>
+    <string name="grant_permission">Conceder permissão</string>
+    <string name="no_grant_permission">Não ceder permissão</string>
+    <string name="msg_info_permission_internet">A aplicação está solicitando o uso de internet</string>
+</resources>
